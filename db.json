@@ -30,17 +30,17 @@
 		},
 		{
 			"id": 5,
+			"title": "Framer Motion",
+			"description": "A production-ready motion library for React. Utilize the power",
+			"link": "https://www.framer.com/motion/",
+			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660636850/fake/framer_uuuajg.png"
+		},
+		{
+			"id": 6,
 			"title": "Config More ",
 			"description": "React Helmet for SEO, Prettier, Plugin Tailwind @typography, prettier",
 			"link": "https://tailwindcss.com",
 			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634328/fake/gear_kmi1vb.png"
-		},
-		{
-			"id": 6,
-			"title": "Framer Motion",
-			"description": "A production-ready motion library for React. Utilize the power",
-			"link": "https://www.framer.com/motion/",
-			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660636705/fake/framer_wb88yv.png"
 		}
 	]
 }
