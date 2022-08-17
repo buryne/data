@@ -86,28 +86,5 @@
       "link": "https://tailwindcss.com",
       "image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634328/fake/gear_kmi1vb.png"
     }
-  ],
-  "posts": [
-    {
-      "id": 1,
-      "title": "How to add styling to an active link in NextJS",
-      "slug": "how-to-add-styling-to-an-active-link-in-nextjs",
-      "date": "2022-08-17T06:55:56.065Z",
-      "content": "I wanted to change the background color of the active navigation link in the <Header> when being clicked. When working with <Link> in React (using React-Router) in the past, I had the possibility to add an activeClassName to the <Link> to change the style when being active."
-    },
-    {
-      "id": 2,
-      "title": "Second again!",
-      "slug": "second-again",
-      "date": "2022-08-17T06:55:56.065Z",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    },
-    {
-      "id": 3,
-      "title": "Third time!",
-      "slug": "third-time",
-      "date": "2022-08-17T06:55:56.065Z",
-      "content": "Odio aenean sed adipiscing diam donec adipiscing tristique. Vel pretium lectus quam id. Lorem donec massa sapien faucibus et. At augue eget arcu dictum varius duis at consectetur. Amet purus gravida quis blandit turpis cursus."
-    }
   ]
 }
