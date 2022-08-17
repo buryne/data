@@ -1,116 +1,113 @@
 {
-	"data": [
-		{
-			"id": 1,
-			"title": "Documentation",
-			"description": "Find information about React Component UI",
-			"link": "https://nextjs.org/docs",
-			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634306/fake/react_v5hnzk.svg"
-		},
-		{
-			"id": 2,
-			"title": "Vite",
-			"description": "Next Generation Frontend Tooling Get ready for a development",
-			"link": "https://vitejs.dev/",
-			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634321/fake/vite_m9vbsj.svg"
-		},
-		{
-			"id": 3,
-			"title": "Tailwindcss",
-			"description": "A utility-first CSS framework for styled components",
-			"link": "https://tailwindcss.com/",
-			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634315/fake/tailwind-css-icon_ca3st8.png"
-		},
-		{
-			"id": 4,
-			"title": "Typescript ",
-			"description": "TypeScript giving you better tooling at any scale ",
-			"link": "https://www.typescriptlang.org/",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
-		},
-		{
-			"id": 5,
-			"title": "Framer Motion",
-			"description": "Motion library Animation for React. Utilize the power",
-			"link": "https://www.framer.com/motion/",
-			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660637348/fake/framer_bjwmzq.png"
-		},
-		{
-			"id": 6,
-			"title": "Config More ",
-			"description": "Helmet for SEO, Prettier, Plugin Tailwind @typography, prettier",
-			"link": "https://tailwindcss.com",
-			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634328/fake/gear_kmi1vb.png"
-		}
-	],
-	"data-no-ts": [
-		{
-			"id": 1,
-			"title": "Documentation",
-			"description": "Find information about React Component UI",
-			"link": "https://nextjs.org/docs",
-			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634306/fake/react_v5hnzk.svg"
-		},
-		{
-			"id": 2,
-			"title": "Vite",
-			"description": "Next Generation Frontend Tooling Get ready for a development",
-			"link": "https://vitejs.dev/",
-			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634321/fake/vite_m9vbsj.svg"
-		},
-		{
-			"id": 3,
-			"title": "Tailwindcss",
-			"description": "A utility-first CSS framework for styled components",
-			"link": "https://tailwindcss.com/",
-			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634315/fake/tailwind-css-icon_ca3st8.png"
-		},
-		{
-			"id": 4,
-			"title": "Javascript ",
-			"description": "JavaScript, often abbreviated JS, is a programming language",
-			"link": "https://www.javascript.com/",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
-		},
-		{
-			"id": 5,
-			"title": "Framer Motion",
-			"description": "Motion library Animation for React. Utilize the power",
-			"link": "https://www.framer.com/motion/",
-			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660637348/fake/framer_bjwmzq.png"
-		},
-		{
-			"id": 6,
-			"title": "Config More ",
-			"description": "React Helmet for SEO, Prettier, Plugin Tailwind @typography, prettier",
-			"link": "https://tailwindcss.com",
-			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634328/fake/gear_kmi1vb.png"
-		}
-	],
-	posts: [
-		
-  {
-    "id": 1,
-    "title": "How to add styling to an active link in NextJS",
-    "slug": "how-to-add-styling-to-an-active-link-in-nextjs",
-    "date": "2022-08-17T06:55:56.065Z",
-    "content": "I wanted to change the background color of the active navigation link in the <Header> when being clicked. When working with <Link> in React (using React-Router) in the past, I had the possibility to add an activeClassName to the <Link> to change the style when being active."
-  },
-  {
-    "id": 2,
-    "title": "Second again!",
-    "slug": "second-again",
-    "date": "2022-08-17T06:55:56.065Z",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  },
-  {
-    "id": 3,
-    "title": "Third time!",
-    "slug": "third-time",
-    "date": "2022-08-17T06:55:56.065Z",
-    "content": "Odio aenean sed adipiscing diam donec adipiscing tristique. Vel pretium lectus quam id. Lorem donec massa sapien faucibus et. At augue eget arcu dictum varius duis at consectetur. Amet purus gravida quis blandit turpis cursus."
-  }
-
-	
-	]
+  "data": [
+    {
+      "id": 1,
+      "title": "Documentation",
+      "description": "Find information about React Component UI",
+      "link": "https://nextjs.org/docs",
+      "image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634306/fake/react_v5hnzk.svg"
+    },
+    {
+      "id": 2,
+      "title": "Vite",
+      "description": "Next Generation Frontend Tooling Get ready for a development",
+      "link": "https://vitejs.dev/",
+      "image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634321/fake/vite_m9vbsj.svg"
+    },
+    {
+      "id": 3,
+      "title": "Tailwindcss",
+      "description": "A utility-first CSS framework for styled components",
+      "link": "https://tailwindcss.com/",
+      "image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634315/fake/tailwind-css-icon_ca3st8.png"
+    },
+    {
+      "id": 4,
+      "title": "Typescript ",
+      "description": "TypeScript giving you better tooling at any scale ",
+      "link": "https://www.typescriptlang.org/",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
+    },
+    {
+      "id": 5,
+      "title": "Framer Motion",
+      "description": "Motion library Animation for React. Utilize the power",
+      "link": "https://www.framer.com/motion/",
+      "image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660637348/fake/framer_bjwmzq.png"
+    },
+    {
+      "id": 6,
+      "title": "Config More ",
+      "description": "Helmet for SEO, Prettier, Plugin Tailwind @typography, prettier",
+      "link": "https://tailwindcss.com",
+      "image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634328/fake/gear_kmi1vb.png"
+    }
+  ],
+  "data-no-ts": [
+    {
+      "id": 1,
+      "title": "Documentation",
+      "description": "Find information about React Component UI",
+      "link": "https://nextjs.org/docs",
+      "image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634306/fake/react_v5hnzk.svg"
+    },
+    {
+      "id": 2,
+      "title": "Vite",
+      "description": "Next Generation Frontend Tooling Get ready for a development",
+      "link": "https://vitejs.dev/",
+      "image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634321/fake/vite_m9vbsj.svg"
+    },
+    {
+      "id": 3,
+      "title": "Tailwindcss",
+      "description": "A utility-first CSS framework for styled components",
+      "link": "https://tailwindcss.com/",
+      "image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634315/fake/tailwind-css-icon_ca3st8.png"
+    },
+    {
+      "id": 4,
+      "title": "Javascript ",
+      "description": "JavaScript, often abbreviated JS, is a programming language",
+      "link": "https://www.javascript.com/",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+    },
+    {
+      "id": 5,
+      "title": "Framer Motion",
+      "description": "Motion library Animation for React. Utilize the power",
+      "link": "https://www.framer.com/motion/",
+      "image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660637348/fake/framer_bjwmzq.png"
+    },
+    {
+      "id": 6,
+      "title": "Config More ",
+      "description": "React Helmet for SEO, Prettier, Plugin Tailwind @typography, prettier",
+      "link": "https://tailwindcss.com",
+      "image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634328/fake/gear_kmi1vb.png"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "How to add styling to an active link in NextJS",
+      "slug": "how-to-add-styling-to-an-active-link-in-nextjs",
+      "date": "2022-08-17T06:55:56.065Z",
+      "content": "I wanted to change the background color of the active navigation link in the <Header> when being clicked. When working with <Link> in React (using React-Router) in the past, I had the possibility to add an activeClassName to the <Link> to change the style when being active."
+    },
+    {
+      "id": 2,
+      "title": "Second again!",
+      "slug": "second-again",
+      "date": "2022-08-17T06:55:56.065Z",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 3,
+      "title": "Third time!",
+      "slug": "third-time",
+      "date": "2022-08-17T06:55:56.065Z",
+      "content": "Odio aenean sed adipiscing diam donec adipiscing tristique. Vel pretium lectus quam id. Lorem donec massa sapien faucibus et. At augue eget arcu dictum varius duis at consectetur. Amet purus gravida quis blandit turpis cursus."
+    }
+  ]
 }
