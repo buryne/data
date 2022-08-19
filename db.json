@@ -3,8 +3,8 @@
 		{
 			"id": 1,
 			"title": "Documentation",
-			"description": "Find information about React Component UI",
-			"link": "https://nextjs.org/docs",
+			"description": "Find information about React Component UI and Router",
+			"link": "https://reactjs.org/",
 			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634306/fake/react_v5hnzk.svg"
 		},
 		{
