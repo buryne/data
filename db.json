@@ -4,7 +4,7 @@
 			"id": 1,
 			"title": "React",
 			"description": "Find information about React Component UI and Router",
-			"link": "https://reactjs.org/",
+			"link": "https://reactrouter.com/docs/en/v6/getting-started/overview",
 			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634306/fake/react_v5hnzk.svg"
 		},
 		{
@@ -46,9 +46,9 @@
 	"data-no-ts": [
 		{
 			"id": 1,
-			"title": "Documentation",
+			"title": "React",
 			"description": "Find information about React Component UI",
-			"link": "https://nextjs.org/docs",
+			"link": "https://reactrouter.com/docs/en/v6/getting-started/overview",
 			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634306/fake/react_v5hnzk.svg"
 		},
 		{
