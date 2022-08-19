@@ -2,8 +2,8 @@
   "data": [
     {
       "id": 1,
-      "title": "Documentation",
-      "description": "Find information about React Component UI",
+      "title": "React",
+      "description": "Find information about React Component UI and Router",
       "link": "https://nextjs.org/docs",
       "image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634306/fake/react_v5hnzk.svg"
     },
