@@ -5,21 +5,21 @@
 			"title": "React",
 			"description": "Find information about React Component UI and Router",
 			"link": "https://reactrouter.com/docs/en/v6/getting-started/overview",
-			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634306/fake/react_v5hnzk.svg"
+			"image": "https://cdn.statically.io/gh/nerufars/data/main/img/react.svg"
 		},
 		{
 			"id": 2,
 			"title": "Vite",
 			"description": "Next Generation Frontend Tooling Get ready for a development",
 			"link": "https://vitejs.dev/",
-			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634321/fake/vite_m9vbsj.svg"
+			"image": "https://cdn.statically.io/gh/nerufars/data/main/img/vite.svg"
 		},
 		{
 			"id": 3,
 			"title": "Tailwindcss",
 			"description": "A utility-first CSS framework for styled components",
 			"link": "https://tailwindcss.com/",
-			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634315/fake/tailwind-css-icon_ca3st8.png"
+			"image": "https://cdn.statically.io/gh/nerufars/data/main/img/tailwind-css-icon.png"
 		},
 		{
 			"id": 4,
@@ -33,14 +33,14 @@
 			"title": "Framer Motion",
 			"description": "Motion library Animation for React. Utilize the power",
 			"link": "https://www.framer.com/motion/",
-			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660637348/fake/framer_bjwmzq.png"
+			"image": "https://cdn.statically.io/gh/nerufars/data/main/img/framer.png"
 		},
 		{
 			"id": 6,
 			"title": "Config More ",
 			"description": "Helmet for SEO, @typography, use-between share components",
 			"link": "",
-			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634328/fake/gear_kmi1vb.png"
+			"image": "https://cdn.statically.io/gh/nerufars/data/main/img/gear.png"
 		}
 	],
 	"data-no-ts": [
@@ -49,21 +49,21 @@
 			"title": "React",
 			"description": "Find information about React Component UI",
 			"link": "https://reactrouter.com/docs/en/v6/getting-started/overview",
-			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634306/fake/react_v5hnzk.svg"
+			"image": "https://cdn.statically.io/gh/nerufars/data/main/img/react.svg"
 		},
 		{
 			"id": 2,
 			"title": "Vite",
 			"description": "Next Generation Frontend Tooling Get ready for a development",
 			"link": "https://vitejs.dev/",
-			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634321/fake/vite_m9vbsj.svg"
+			"image": "https://cdn.statically.io/gh/nerufars/data/main/img/vite.svg"
 		},
 		{
 			"id": 3,
 			"title": "Tailwindcss",
 			"description": "A utility-first CSS framework for styled components",
 			"link": "https://tailwindcss.com/",
-			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634315/fake/tailwind-css-icon_ca3st8.png"
+			"image": "https://cdn.statically.io/gh/nerufars/data/main/img/tailwind-css-icon.png"
 		},
 		{
 			"id": 4,
@@ -77,14 +77,14 @@
 			"title": "Framer Motion",
 			"description": "Motion library Animation for React. Utilize the power",
 			"link": "https://www.framer.com/motion/",
-			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660637348/fake/framer_bjwmzq.png"
+			"image": "https://cdn.statically.io/gh/nerufars/data/main/img/framer.png"
 		},
 		{
 			"id": 6,
 			"title": "Config More ",
 			"description": "React Helmet for SEO, Prettier, Plugin Tailwind @typography, prettier",
 			"link": "https://tailwindcss.com",
-			"image": "https://res.cloudinary.com/watsonkawai/image/upload/v1660634328/fake/gear_kmi1vb.png"
+			"image": "https://cdn.statically.io/gh/nerufars/data/main/img/gear.png"
 		}
 	]
 }
